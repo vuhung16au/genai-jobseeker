@@ -1,4 +1,4 @@
-Now, you task is to help me tailor my CV for a specific role.
+```Now, you task is to help me tailor my CV for a specific role.
 Make sure the tailored CV matches the job description. 
 
 Print the updated CV in Markdown format.
@@ -13,5 +13,6 @@ Here is the info about the job description and my CV
 <CV>
 
 </CV>
+```
 
 TODO: Copy and paste the job description and your CV inside the tags. 
