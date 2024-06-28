@@ -5,6 +5,7 @@ Generative AI prompts for job seekers
 
 ## Job applications workflow with Generative AIs
 
+1. [Setup ChatGPT](setup_chatgpt.md)
 1. [Your personal coach](your_personal_coach.md)
 2. [Create an effective CV](create_an_effective_cv.md)
 3. [Tailor a CV for a specific role/job](tailor_cv_for_specific_role_job.md)
