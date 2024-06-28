@@ -5,7 +5,7 @@ Generative AI prompts for job seekers
 
 ## Job applications workflow with Generative AIs
 
-1. [Your personal coach]
+1. [[Your personal coach]]
 2. [Create an effective CV]]
 3. [Tailor a CV for a specific role/job]
 4. [Write a powerful cover letter for a specific job]
