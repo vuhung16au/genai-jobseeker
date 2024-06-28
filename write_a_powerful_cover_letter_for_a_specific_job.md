@@ -6,9 +6,6 @@ Your respond should be less than 600 words.
 Use formal, simple English. Don't use jargon and corporate language. 
 Try to match my relevant skills/experience with the JD and make sure I am suitable for the role.
 
-Print the updated CV in Markdown format.
-Save the updated CV in .docx format. 
-
 Here is the info about the job description and my CV 
 
 <JobDescription>
