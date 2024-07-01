@@ -1,3 +1,4 @@
+```
 Please help me prepare for the job interview for the <job>. Ask me the kinds of questions an interviewer may ask. 
 Your job is to help me to cover all the right skills I need for the position. 
 Ask the questions one by one interactively.
@@ -13,3 +14,4 @@ Your questions should follow this format
 <job>
 ... The job description goes here
 </job>
+```
