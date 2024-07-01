@@ -1,7 +1,9 @@
 # genai-jobseeker
 Generative AI prompts for job seekers
 
-## Overview 
+## Who needs this guide?
+You are looking for a job and you have to create dozens of resumes and cover letter every day.
+This guide will help you reducing your time by using GenAI such as Bing AI or ChatGPT. 
 
 ## What you need
 1. An OpenAI/ChatGPT account. 4.0o is better but 3.5 works
