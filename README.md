@@ -3,6 +3,10 @@ Generative AI prompts for job seekers
 
 ## Overview 
 
+## What you need
+1. An OpenAI/ChatGPT account. 4.0o is better but 3.5 works
+2. Bing AI account
+
 ## Job applications workflow with Generative AIs
 
 1. [Setup ChatGPT](setup_chatgpt.md)
