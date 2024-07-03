@@ -5,7 +5,7 @@ I want to apply for the <role>, for the <company>, refer to the <company_url> be
 Please search the internet for the most recent information about the company. 
 Your responses should include the following sections: 
 
-- A summary of what {company} does
+- A summary of what <company> does
 - A summary of what it values most from employees
 - The company's mission statement
 - Information about the company's culture
@@ -15,6 +15,9 @@ Your responses should include the following sections:
 - A list of board members
 - The company's strengths and weaknesses
 - A list of main competitors
+
+Interactively, give me the answer one by one section. When I say "next", move to the next section in the list above.
+
 
 <role>
 
