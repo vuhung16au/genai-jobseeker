@@ -1,4 +1,5 @@
 # genai-jobseeker
+
 Generative AI prompts for job seekers
 
 ## Who needs this guide?
